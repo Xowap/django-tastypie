@@ -14,6 +14,7 @@ interfaces.
    non_orm_data_sources
    tools
    testing
+   compatibility_notes
 
    resources
    bundles
@@ -21,7 +22,8 @@ interfaces.
    fields
    caching
    validation
-   authentication_authorization
+   authentication
+   authorization
    serialization
    throttling
    paginator
