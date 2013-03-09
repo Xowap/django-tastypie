@@ -20,7 +20,6 @@ setup(
         'tastypie.utils',
         'tastypie.management',
         'tastypie.management.commands',
-        'tastypie.migrations',
         'tastypie.contrib',
         'tastypie.contrib.gis',
         'tastypie.contrib.contenttypes',
